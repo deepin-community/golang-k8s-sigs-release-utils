@@ -1,0 +1,5 @@
+---
+Bug-Database: https://github.com/kubernetes-sigs/release-utils/issues
+Bug-Submit: https://github.com/kubernetes-sigs/release-utils/issues/new
+Repository: https://github.com/kubernetes-sigs/release-utils.git
+Repository-Browse: https://github.com/kubernetes-sigs/release-utils
