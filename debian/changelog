@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-k8s-sigs-release-utils (0.7.7-2) unstable; urgency=medium
 
-  * Initial release
+  * copyright: Use proper copyright name (ftp-master review).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Simon Josefsson <simon@josefsson.org>  Thu, 18 Jan 2024 11:39:11 +0100
+
+golang-k8s-sigs-release-utils (0.7.7-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1060840)
+
+ -- Simon Josefsson <simon@josefsson.org>  Wed, 17 Jan 2024 01:29:02 +0100
